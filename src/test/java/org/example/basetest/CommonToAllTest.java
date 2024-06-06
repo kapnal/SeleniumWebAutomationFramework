@@ -1,8 +1,13 @@
 package org.example.basetest;
 
+import io.qameta.allure.Allure;
 import org.example.driver.DriverManager;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.*;
+
+import java.io.ByteArrayInputStream;
 
 
 public class CommonToAllTest {
@@ -20,5 +25,6 @@ public class CommonToAllTest {
     public void tearDown(){
         DriverManager.down();
     }
+
 
 }

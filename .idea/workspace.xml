@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6924456c-df05-4eee-844d-88d549ffe752" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/driver/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/driver/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/basetest/CommonToAllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/basetest/CommonToAllTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/testXMLs/testng-smoke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/testXMLs/testng-smoke.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/tests/TestVWOLoginPOMBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/tests/TestVWOLoginPOMBaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +35,14 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/pages/pageObjectModel/LoginPage_POM.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/example/utils/PropertyReader.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/resources/data.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/example/basetest/CommonToAllTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/org/example/testXMLs/testng-smoke.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/org/example/tests/TestVWOLogin.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/org/example/tests/TestVWOLoginPOM.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/org/example/tests/TestVWOLoginPOMBaseTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -75,7 +84,7 @@
       <recent name="org.example.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng-smoke.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng.xml">
     <configuration name="TestNG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.testng.TestNG" />
       <extension name="coverage">
@@ -137,8 +146,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng-smoke.xml" />
         <item itemvalue="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng-smoke.xml" />
         <item itemvalue="TestNG.TestVWOLoginPOMBaseTest" />
         <item itemvalue="Application.TestNG" />
         <item itemvalue="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/testng.xml" />

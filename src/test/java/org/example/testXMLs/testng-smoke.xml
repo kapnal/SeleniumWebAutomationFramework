@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true" name="SeleniumWebAutomationFramework">
         <groups>
             <run>
-                <include name="smoke"/>
+                <include name="smoke"></include>
             </run>
         </groups>
         <classes>

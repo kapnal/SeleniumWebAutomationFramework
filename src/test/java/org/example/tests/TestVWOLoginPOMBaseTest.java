@@ -11,12 +11,14 @@ import static org.assertj.core.api.Assertions.*;
 
 public class TestVWOLoginPOMBaseTest extends CommonToAllTest {
 
-    @Test(groups = {"smoke"}, priority = 1)
+    @Test(groups = {"smoke"})
     public void testLoginNegative(){
 
         LoginPage_POM loginPagePom = new LoginPage_POM();
         loginPagePom.openVWOLoginURL();
         String error_msg_text = loginPagePom.loginToVWOInvalidCreds();
+
+
 
         //TestNG Assertion
         Assert.assertEquals(error_msg_text,"Your email, password, IP address or location did not match");
