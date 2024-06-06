@@ -1,7 +1,8 @@
 package org.example.driver;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.edge.EdgeOptions;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
 
 
 public class DriverManager {
@@ -14,11 +15,11 @@ public class DriverManager {
 
     public static void init(){
         if(driver == null){
-            EdgeOptions edgeOptions = new EdgeOptions();
-            edgeOptions.addArguments("--start-maximized");
-            edgeOptions.addArguments("--guest");
+            ChromeOptions chromeOptions = new ChromeOptions();
+            chromeOptions.addArguments("--start-maximized");
+            chromeOptions.addArguments("--guest");
 //            edgeOptions.addArguments("--headless");
-            driver = new EdgeDriver();
+            driver = new ChromeDriver();
         }
     }
 
