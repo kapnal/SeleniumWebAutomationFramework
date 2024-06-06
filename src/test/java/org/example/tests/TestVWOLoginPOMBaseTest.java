@@ -11,7 +11,7 @@ import static org.assertj.core.api.Assertions.*;
 
 public class TestVWOLoginPOMBaseTest extends CommonToAllTest {
 
-    @Test(groups = {"smoke"})
+    @Test(priority = 1)
     public void testLoginNegative(){
 
         LoginPage_POM loginPagePom = new LoginPage_POM();
