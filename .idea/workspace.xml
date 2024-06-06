@@ -7,6 +7,7 @@
     <list default="true" id="6924456c-df05-4eee-844d-88d549ffe752" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/testXMLs/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,10 +82,10 @@
       <recent name="org.example.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng.xml">
-    <configuration name="C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng-smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/testng.xml">
+    <configuration name="C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWebAutomationFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/testXMLs/testng-smoke.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/testXMLs/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -92,9 +93,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumWebAutomationFramework" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/org/example/testXMLs/testng.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -155,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/testng.xml" />
         <item itemvalue="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng.xml" />
         <item itemvalue="TestNG.TestVWOLoginPOMBaseTest" />
         <item itemvalue="TestNG.TestVWOLoginPOM" />
         <item itemvalue="TestNG.TestVWOLogin" />
-        <item itemvalue="TestNG.C:/Users/kapil/IdeaProjects/SeleniumWebAutomationFramework/src/test/java/org/example/testXMLs/testng-smoke.xml" />
       </list>
     </recent_temporary>
   </component>
