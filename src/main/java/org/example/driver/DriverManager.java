@@ -19,7 +19,7 @@ public class DriverManager {
             chromeOptions.addArguments("--start-maximized");
             chromeOptions.addArguments("--guest");
 //            edgeOptions.addArguments("--headless");
-            driver = new ChromeDriver();
+            driver = new ChromeDriver(chromeOptions);
         }
     }
 
